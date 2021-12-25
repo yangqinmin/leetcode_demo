@@ -1,4 +1,4 @@
-# Javascript 可信认证 科目1
+# leetcode javascript项目
 
 > 该项目包含 eslint代码规范 及 mocha测试环境。
 

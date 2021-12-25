@@ -1,0 +1,19 @@
+{
+  "name": "eslint-env",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "eslint": "./node_modules/.bin/eslint ./src --ext .js ",
+    "test": "mocha ./src/*.spec.js",
+    "testRun": "node src/test1.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "assert": "^2.0.0",
+    "babel-eslint": "^10.1.0",
+    "eslint": "^7.3.1",
+    "mocha": "^8.0.1"
+  }
+}

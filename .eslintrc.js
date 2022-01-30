@@ -70,6 +70,7 @@ module.exports = {
           * 建议16	每句代码后加分号
           */
         'semi-style': ['warn', 'last'],
+        'semi': ['error', 'always'],
 
 
         /**

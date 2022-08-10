@@ -49,7 +49,7 @@ module.exports = {
         /**
           * 建议6	对象字面量属性超过4个, 需要都换行
           */
-        'object-property-newline': [ 'warn', { allowAllPropertiesOnSameLine: false } ],
+        'object-property-newline': [ 'warn', { allowAllPropertiesOnSameLine: true } ],
 
         /**
           * 建议7	链式调用对象方法时，一行最多调用4次，否则需要换行
